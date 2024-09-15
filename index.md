@@ -1,14 +1,12 @@
-# Welcome to My Advanced Static Site
+# Welcome to My Static Site!
 
-Welcome to my advanced static site built using Markdown. This page demonstrates various Markdown features and how they can be used to create a rich content experience.
+Welcome to my static site built using Markdown. I tried to demonstrate a couple of Markdown features here on this page.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Gallery](#gallery)
-- [Code Examples](#code-examples)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -24,16 +22,6 @@ This site showcases how Markdown can be used to create a sophisticated static we
 
 Here’s a collection of images:
 
-![Sample Image 1](https://source.unsplash.com/random/800x600?sig=1)
-![Sample Image 2](https://source.unsplash.com/random/800x600?sig=2)
-![Sample Image 3](https://source.unsplash.com/random/800x600?sig=3)
-
-## Code Examples
-
-### Python Code
-
-```python
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet('World'))
+![Sample Image 1](https://avatars.mds.yandex.net/i?id=a96fac9a897af24bff34cb61606ea645_l-12422060-images-thumbs&n=13)
+![Sample Image 2](https://i.pinimg.com/originals/57/5f/7b/575f7b5876956278696f0cd90113992c.jpg)
+![Sample Image 3](https://i.pinimg.com/736x/ef/4c/87/ef4c87f80748837d7e1c9744474fd7b0.jpg)
