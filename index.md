@@ -17,6 +17,32 @@ This site showcases how Markdown can be used to create a sophisticated static we
 - **Easy to Write**: Markdown is straightforward and easy to use.
 - **Flexible**: Supports various elements like lists, tables, and code blocks.
 - **Customizable**: When used with static site generators, you can extend its capabilities with plugins and themes.
+- **You can create lists**: 
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+- **Or add emojies**:
+
+@MaxxKalashnikov :+1: This PR looks great - it's ready to merge! :shipit:
+
+- **And bunch of other features**:
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ## Gallery
 
