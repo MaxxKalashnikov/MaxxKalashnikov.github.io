@@ -20,15 +20,16 @@ This site showcases how Markdown can be used to create a sophisticated static we
 
 - **Customizable**: When used with static site generators, you can extend its capabilities with plugins and themes.
 
-- **You can create lists**: 
+- **You can create quotes**: 
 
-[x] #739
-[ ] What about this?
-[ ] Add delight to the experience when all tasks are complete
+Text that is not a quote
+
+> Text that is a quote
+
 
 - **Or add emojis**:
 
-@MaxxKalashnikov :+1: This PR looks great - it's ready to merge! :shipit:
+@MaxxKalashnikov :+1: This PR looks great - it's ready to merge! :high_brightness:
 
 - **And bunch of other features**:
 
