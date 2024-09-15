@@ -1,57 +1,52 @@
-# Welcome to My Static Site!
+# Welcome to My GitHub Pages Static Site!
 
-Welcome to my static site built using Markdown. I tried to demonstrate a couple of Markdown features here on this page.
+This is a sample static site built using **Markdown**, hosted on GitHub Pages. I tried to demostrate some of Markdown's features.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Code Examples](#code-examples)
 - [Gallery](#gallery)
+- [Contact](#contact)
 
 ## Introduction
 
-This site showcases how Markdown can be used to create a sophisticated static website. Markdown is a lightweight markup language with plain-text formatting syntax.
+GitHub Pages uses **GitHub-Flavored Markdown (GFM)**, which supports most basic Markdown features and some extras like task lists and emojis. This page demonstrates those features.
 
 ## Features
 
-- **Easy to Write**: Markdown is straightforward and easy to use.
+Here are some basic features supported by GitHub Pages:
 
-- **Flexible**: Supports various elements like lists, tables, and code blocks.
+- **Easy to Use**: Markdown is simple and quick to write.
+- **Task Lists**: Supported with the following syntax:
+  - [x] Task 1 (Completed)
+  - [ ] Task 2 (Not completed)
+- **Blockquotes**: Supported for adding notes, tips, or warnings:
+  > **NOTE**: This is an important note.
+  
+  > **TIP**: Here’s a helpful tip!
 
-- **Customizable**: When used with static site generators, you can extend its capabilities with plugins and themes.
+- **Tables**: Easily create tables with Markdown:
+  
+  | Feature        | Supported? |
+  |----------------|------------|
+  | Task Lists     | Yes        |
+  | Emojis         | Yes        |
+  | Tables         | Yes        |
+  | Callouts       | Limited    |
 
-- **You can create quotes**: 
+## Code Examples
 
-Text that is not a quote
+Here are some code snippets using different programming languages:
 
-> Text that is a quote
+### Python Code Example
 
+```python
+def hello_world():
+    print("Hello, World!")
+```
 
-- **Or add emojis**:
+### Images
 
-@MaxxKalashnikov :+1: This PR looks great - it's ready to merge! :high_brightness:
-
-- **And bunch of other features**:
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-## Gallery
-
-Here’s a collection of images:
-
-![Sample Image 1](https://avatars.mds.yandex.net/i?id=a96fac9a897af24bff34cb61606ea645_l-12422060-images-thumbs&n=13)
-![Sample Image 2](https://i.pinimg.com/originals/57/5f/7b/575f7b5876956278696f0cd90113992c.jpg)
-![Sample Image 3](https://i.pinimg.com/736x/ef/4c/87/ef4c87f80748837d7e1c9744474fd7b0.jpg)
+![Sample Image 1](https://i.pinimg.com/originals/57/5f/7b/575f7b5876956278696f0cd90113992c.jpg)
